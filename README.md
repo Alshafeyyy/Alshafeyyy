@@ -12,9 +12,9 @@ I build the systems that help teams reach the right people, follow up on time, a
 
 ## About Me
 
-I started out in English studies and communication, and that still shapes how I work: I care about the people on the other end of every workflow, whether that's a learner who hasn't logged in yet or a decision-maker getting a cold message.
+I started out in Media & Business Analysis studies, and that still shapes how I work: I care about the people on the other end of every workflow, whether that's a learner who hasn't logged in yet or a decision-maker getting a cold message.
 
-I've spent about two years in the ALX group, moving from learner retention and community programs into operations, and now B2B Revenue Operations at **ALX Africa**. Along the way I kept running into the same situation: the official tool didn't exist yet, so I built one. That's become the thread through my work. I find the gap, build something that fills it, test it with the team, and improve it from there.
+I've spent about two years in the ALX group, moving from retention and community into operations, and now B2B Revenue Operations at **ALX Africa**. Along the way I kept running into the same situation: the official tool didn't exist yet, so I built one. That's become the thread through my work. I find the gap, build something that fills it, test it with the team, and improve it from there.
 
 What I'm good at:
 
@@ -37,31 +37,15 @@ An automated flow that pulls target companies from Apollo, classifies each one a
 A contact enrichment tool that runs five AI search passes per company to build a usable profile before anyone reaches out.
 `Google Apps Script` `Perplexity AI`
 
-### 📣 Persona × Product Outbound Testing
-A set of 25 outbound sequences, one for each buyer persona and product pairing (CEO, HR, L&D, CTO, and more), built to learn which offer each audience actually responds to.
-`Apollo` `Outbound strategy` `Experiment design`
-
-### 💬 Learner Activation Messaging System
-A bulk messaging tool built when no official platform was available. It reached 1,100+ learners and supported campaigns that lifted activation by up to 11% and cut non-starters by up to 14% in the most responsive cohorts.
-`Docker` `ngrok` `WhatsApp`
-
-### 📞 Outbound Call Center Setup
-A self-hosted outbound calling setup for a small team, including onboarding a call task force to handle mid-funnel objections.
-`FreePBX` `DigitalOcean` `SIP`
-
-### 📊 Learner Progress Dashboards
-Activation dashboards and an all-programs view that tracks learner progress against historical data across cohorts and regions.
-
 ---
 
 ## Toolbox
 
-**CRM & Sales:** Salesforce, Apollo, PhantomBuster
-**Automation:** Make, Google Apps Script, AI agents
+**CRM & Sales:** Salesforce, Hubspot, Odoo, Apollo, PhantomBuster, Waalaxy 
+**Automation:** Make, N8N, Google Apps Script, AI agents
 **Infrastructure:** Docker, DigitalOcean, Vercel
 **Data:** Google Sheets, dashboards, campaign analytics
 
-Languages: Arabic (native) · English (proficient) · French (intermediate)
 
 ---
 
