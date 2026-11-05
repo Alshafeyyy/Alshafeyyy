@@ -1,56 +1,79 @@
-# Hi, I'm Jawad 👋
+# Jawad Chafai
 
-**Revenue Operations · Casablanca, Morocco**
+**RevOps and GTM engineer · Casablanca, Morocco · 2× Salesforce Certified**
 
-I build the systems that help teams reach the right people, follow up on time, and see what's actually working, usually by connecting tools that weren't designed to talk to each other.
+I turn the spreadsheets sales teams quietly run on into Salesforce, automation and AI pipelines that find, qualify and follow up on leads on their own. A background in community building is why the systems I build get adopted.
 
-[![Email](https://img.shields.io/badge/Email-Contact.jchafai%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Contact.jchafai@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jawad%20Chafai-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jawadchafai)
-[![Website](https://img.shields.io/badge/Web-chafaijawad.com-111111?style=flat&logo=googlechrome&logoColor=white)](https://www.chafaijawad.com)
-
----
-
-## About Me
-
-I started out in Media & Business Analysis studies, and that still shapes how I work: I care about the people on the other end of every workflow, whether that's a learner who hasn't logged in yet or a decision-maker getting a cold message.
-
-I've spent about two years in the ALX group, moving from retention and community into operations, and now B2B Revenue Operations at **ALX Africa**. Along the way I kept running into the same situation: the official tool didn't exist yet, so I built one. That's become the thread through my work. I find the gap, build something that fills it, test it with the team, and improve it from there.
-
-What I'm good at:
-
-- **Turning messy processes into repeatable systems:** sourcing, qualification, outreach, follow-up
-- **Building automation without waiting for perfect infrastructure:** scrappy first, solid second
-- **Using data to decide what to try next:** activation, conversion, and campaign results
-- **Bringing people along:** onboarding teams to new tools and ways of working
-
-I also volunteer in the tech community. I served as CMX Chapter Director and help out at North Africa Dreamin', the Salesforce community conference in Casablanca.
+[![Website](https://img.shields.io/badge/chafaijawad.com-111111?style=flat&logo=googlechrome&logoColor=white)](https://chafaijawad.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jawad-chafai/)
+[![Trailblazer](https://img.shields.io/badge/Salesforce%20Trailblazer-00A1E0?style=flat&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/jawadchafai)
+[![Blog](https://img.shields.io/badge/Blog-111111?style=flat&logo=notion&logoColor=white)](https://blog.chafaijawad.com)
+[![Email](https://img.shields.io/badge/contact.jchafai%40gmail.com-111111?style=flat&logo=gmail&logoColor=white)](mailto:contact.jchafai@gmail.com)
 
 ---
 
-## Things I've Built
+## What I work on
 
-### 🔎 B2B Sourcing & Qualification Pipeline
-An automated flow that pulls target companies from Apollo, classifies each one against our ideal customer profile using AI, and writes qualified accounts to a shared pipeline sheet. A second stage enriches contacts and prepares briefings for outreach. I built it from a teammate's requirements and demoed it live to the team.
-`Make` `Apollo` `AI classification` `Google Sheets`
+- **Revenue operations:** data models, field definitions, sending policies and pipeline reporting for B2B sales teams
+- **GTM engineering:** lead sourcing with Apollo.io, AI qualification and research with Perplexity, automated outreach and follow-up
+- **Salesforce administration:** custom objects, flows, validation rules, Web-to-Lead, reports and dashboards
+- **Automation:** APIs, webhooks, Google Apps Script and Make.com
+- **Adoption:** designing systems with the people who use them, then onboarding the team
 
-### 🧠 AI Company Research Engine
-A contact enrichment tool that runs five AI search passes per company to build a usable profile before anyone reaches out.
-`Google Apps Script` `Perplexity AI`
+When the right tool doesn't exist yet, I build it: find the gap, ship a first version, test it with the team and improve it from there.
+
+---
+
+## Things I've built
+
+**[Pipeline Command Center](https://chafaijawad.com/work/pipeline-dashboard)**  
+A live RevOps dashboard that joins four disconnected sales tools into one secure view, so no prospect falls through the cracks. It tracks prospects across 52 companies and refreshes itself every couple of minutes.  
+`Google Apps Script` `Google Sheets` `Dashboards`
+
+**[B2B Prospecting Pipeline](https://chafaijawad.com/work/b2b-flow)**  
+Finds decision-makers with Apollo.io, scores each company on 8 buying signals with a web-connected AI model, and writes a personal brief for every qualified lead, delivered as one colour-coded call list.  
+`Apollo.io` `Perplexity` `Streamlit` `Google Sheets`
+
+**[Pass2Work](https://chafaijawad.com/work/pass2work)**  
+A Salesforce-backed membership and QR check-in platform that turned two coworking hubs into a revenue source, with 245+ members in one org.  
+`Salesforce` `Flows` `Web-to-Lead` `Node.js`
+
+---
+
+## Free tools
+
+Free, private tools for RevOps and business analysts at [tools.chafaijawad.com](https://tools.chafaijawad.com). No account, and nothing is uploaded.
+
+- **[CRM Data Cleaner](https://tools.chafaijawad.com/crm-data-cleaner):** cleans CRM exports in the browser. Detects 28 column types, merges duplicates, formats phones for 240 countries, and standardises money, dates and deal stages across every tab.
+- **[flowmap.](https://tools.chafaijawad.com/process-mapper):** a process mapping editor with swimlanes, BPMN, SIPOC and value stream maps, plus analysis that finds lead time, handoffs, rework loops and waste.
+
+Visitors vote on the next tool I build.
+
+---
+
+## Certifications
+
+- Salesforce Certified Administrator
+- Salesforce Certified Associate
+- Salesforce Certified Business Analyst (exam booked)
+
+## Community
+
+- Founder and chapter director of **CMX Morocco**, grown from zero to 60 members across 5 events
+- Ambassador for **North Africa Dreamin**, the first large Salesforce community event in Africa
+- Speaker: *The Workaround Is The Feedback*, on why business processes break
 
 ---
 
 ## Toolbox
 
-**CRM & Sales:** Salesforce, Hubspot, Odoo, Apollo, PhantomBuster, Waalaxy 
-**Automation:** Make, N8N, Google Apps Script, AI agents
-**Infrastructure:** Docker, DigitalOcean, Vercel
-**Data:** Google Sheets, dashboards, campaign analytics
+**CRM and sales:** Salesforce, HubSpot, Odoo, Apollo.io, PhantomBuster, Waalaxy  
+**Automation:** Make.com, n8n, Google Apps Script, APIs and webhooks, AI agents  
+**Build and deploy:** React, Node.js, Streamlit, Docker, DigitalOcean, Vercel  
+**Data:** Google Sheets, dashboards, pipeline and campaign analytics
 
+**Languages:** Arabic, Darija, French, English
 
 ---
 
-## Let's Talk
-
-I'm always happy to talk about RevOps, outbound automation, CRM, or building useful tools with limited resources.
-
-📬 Contact.jchafai@gmail.com · 💼 [LinkedIn](https://linkedin.com/in/jawadchafai) · 🌐 [chafaijawad.com](https://www.chafaijawad.com)
+Happy to talk about RevOps, GTM systems, Salesforce, or building useful tools with limited resources: [contact.jchafai@gmail.com](mailto:contact.jchafai@gmail.com)
